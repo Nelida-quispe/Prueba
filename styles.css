@@ -1,0 +1,20 @@
+body
+{
+    background-color: rgb(232, 253, 153);
+}
+h1
+{
+    color: rgb(247, 48, 48); text-align:center;
+}
+h2
+{
+    color: blue;
+}
+header
+{
+    background-color: aqua;color: blue; font-family: 'Times New Roman', Times, serif;padding: 1.5%; text-align: center;TEX
+}
+footer
+{
+    background-color: aqua; color: blue; font-family:'Times New Roman', Times, serif;padding:1%; text-align: center;
+}
